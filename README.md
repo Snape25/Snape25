@@ -1,6 +1,5 @@
 
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Snape25)](https://github.com/Snape25/github-readme-stats)
-Here are some ideas to get you started:
+### Hello 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
