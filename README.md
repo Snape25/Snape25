@@ -8,7 +8,7 @@
 
 - Python
 - Dart
-- Javascript
+- Java
 
 # Frameworks
 
